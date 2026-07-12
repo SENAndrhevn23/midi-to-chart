@@ -1,0 +1,11 @@
+# ======================================
+# MIDI to Psych Converter Requirements
+# ======================================
+
+Python 3.10 or newer
+
+Download Python:
+https://www.python.org/downloads/
+
+No external Python packages are required.
+Everything is written using Python's standard library.
