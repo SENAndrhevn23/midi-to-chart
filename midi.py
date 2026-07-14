@@ -1,7 +1,7 @@
 # =========================
 # CUSTOM MIDI PARSER
 # MIDI TO PSYCH
-# Version 0.0.6
+# Version 0.0.1
 # =========================
 
 import struct
