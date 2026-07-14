@@ -1,3 +1,6 @@
+# ======================================
+# MIDI to Psych Converter Requirements
+# ======================================
 
 Python 3.10 or newer
 
